@@ -1,3 +1,5 @@
+### https://takagotch.github.io/page312
+
 [![Material Design for Bootstrap](https://mdbootstrap.com/wp-content/uploads/2018/01/product-page.jpg)](https://mdbootstrap.com/freebies/jquery/e-commerce/)
 
 # Bootstrap 4 & Material Design - Ecommerce Template 
